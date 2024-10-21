@@ -2,6 +2,6 @@ name: akimender
 theme: minima
 navigation:
  - title: "Projects"
-   url: "/"
+   url: "/projects"
  - title: "Blog"
    url: "/blog"
