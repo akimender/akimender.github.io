@@ -1,2 +1,7 @@
 name: akimender
 theme: minima
+navigation:
+ - title: "Projects"
+   url: "/"
+ - title: "Blog"
+   url: "/blog"
